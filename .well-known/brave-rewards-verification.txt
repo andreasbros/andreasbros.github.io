@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: f4184f.github.io
+Domain: andreasbros.github.io
 Token: 9a809b318edce6b102bc16b167498d6ec1428410facd112560e11a35c5fbb2d4
